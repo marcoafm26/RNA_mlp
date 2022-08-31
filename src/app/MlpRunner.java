@@ -1,6 +1,6 @@
-package domain;
+package app;
 
-import app.MLP;
+import domain.MLP;
 
 import java.io.File;
 import java.io.FileNotFoundException;
